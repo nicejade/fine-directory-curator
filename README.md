@@ -1,7 +1,27 @@
-# Fine Directory Curator (fdc)
+<p align="center">
+  <a href="https://fine.niceshare.site/projects/fine-directory-curator/" target="_blank">
+    <img width="120"
+    src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/fine-directory-curator-logo.png">
+  </a>
+</p>
 
-🗂️ A fast, elegant Rust CLI for keeping your macOS & Linux folders tidy (Windows support planned).  
-It sorts first-level items by **year** and **type**, avoids overwrite collisions, preserves top-level structure, and lets you **preview** before doing anything destructive.
+<h1 align="center"><a href="https://fine.niceshare.site/projects/fine-directory-curator">Fine Directory Curator (fdc)</a></h1>
+
+<div align="center">
+  <strong>
+  🗂️ A fast, elegant Rust CLI for keeping your macOS & Linux folders tidy (Windows support planned).  
+It sorts first-level items by <code>year</code> and <code>type</code>, avoids overwrite collisions, preserves top-level structure, and lets you <code>preview</code> before doing anything destructive.
+  </strong>
+
+  <p dir="auto">
+    <a href="https://crates.io/crates/fine-directory-curator">📦 Package</a> • 
+    <a href="https://fine.niceshare.site/projects/fine-directory-curator#快速开始"> ⚡ Quick Start</a> • 
+    <a href="https://www.lovejade.cn/">🏡 Homepage</a>
+  </p>
+  <p dir="auto">
+    <img src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/fine-directory-curator.png" alt="Fine Directory Curator (fdc)" data-canonical-src="https://lovejade.oss-cn-shenzhen.aliyuncs.com/fine-directory-curator.png" style="max-width: 100%;">
+  </p>
+</div>
 
 > TL;DR: `cargo install fine-directory-curator` → `fdc --dry-run` → review → `fdc`  
 > No drama, no duplicates, no "where-did-that-download-go?" energy.
@@ -279,6 +299,21 @@ A: Moves generally preserve metadata; cross-device copy + delete may differ per 
 - ⏭️ Dry-run diff to file (`--plan <path>`)  
 
 > Have opinions? Open an issue or PR—let’s keep the filesystem civilized together.
+
+---
+
+## Related Links
+
+- [逍遥自在轩](https://www.niceshare.site/)
+- [清风明月轩](https://www.lovejade.cn/)
+- [晚晴幽草轩](https://www.jeffjade.com/)
+- [缘知随心庭](https://fine.niceshare.site/)
+- [玉桃文飨轩](https://share.lovejade.cn/)
+- [倾城之链](https://site.lovejade.cn/)
+- [曼妙句子](https://read.lovejade.cn/)
+- [SegmentFault](https://segmentfault.com/u/jeffjade)
+- [X | MarshalXuan](https://x.com/MarshalXuan)
+- [@MarshalXuan](https://www.youtube.com/@MarshalXuan)
 
 ---
 
