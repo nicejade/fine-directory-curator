@@ -72,6 +72,13 @@ fdc
 
 > Note: Package name is `fine-directory-curator`, executable is `fdc`.
 
+### From Homebrew (macOS/Linux)
+
+```bash
+brew tap nicejade/homebrew-fdc
+brew install fdc
+```
+
 ### Build from source
 
 ```bash
